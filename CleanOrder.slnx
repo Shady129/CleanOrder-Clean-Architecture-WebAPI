@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="../CleanOrder.Application/CleanOrder.Application.csproj" />
-  <Project Path="../CleanOrder.Domain/CleanOrder.Domain.csproj" />
+  <Project Path="CleanOrder.Application/CleanOrder.Application.csproj" />
+  <Project Path="CleanOrder.Domain/CleanOrder.Domain.csproj" />
   <Project Path="CleanOrder.API/CleanOrder.API.csproj" />
   <Project Path="CleanOrder.Infrastructure/CleanOrder.Infrastructure.csproj" />
 </Solution>
